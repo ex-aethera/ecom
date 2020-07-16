@@ -4,7 +4,7 @@ E-Commerce platform meant to replace Magento with a more up2date and faster code
 
 We choose to use the Symfony PHP framework as we think it now became a stable and mature solution for developing production ready products.
 
-##Features
+## Features
 We aim to develop a complete eCommerce solution with the following features:
 
 - Lightning fast processing of content pages
