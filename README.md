@@ -14,3 +14,10 @@ We aim to develop a complete eCommerce solution with the following features:
 - Extensible sitemap.xml for SEO
 - Extensible feed providers (google shopping, facebook marketplace, ...)
 - Customizable styling with less preprocessor
+
+## Installation
+- clone project into www dir
+- set appropriate permissions to the folders and files
+- Copy and/or rename the .env.example file to .env
+- Generate a random secret seed number and store it in environment variable APP_SECRET in .env file
+- In the root of the project execute `composer install`
