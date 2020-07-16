@@ -1,5 +1,5 @@
 # ex-aethera ecom
-##Description
+## Description
 E-Commerce platform meant to replace Magento with a more up2date and faster code base.  
 
 We choose to use the Symfony PHP framework as we think it now became a stable and mature solution for developing production ready products.
