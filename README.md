@@ -20,4 +20,5 @@ We aim to develop a complete eCommerce solution with the following features:
 - set appropriate permissions to the folders and files
 - Copy and/or rename the .env.example file to .env
 - Generate a random secret seed number and store it in environment variable APP_SECRET in .env file
-- In the root of the project execute `composer install`
+- In the projects' root execute `composer install` to install php dependencies
+- In the projects' root execute `npm install` to install npm dependencies
