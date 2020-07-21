@@ -1,6 +1,6 @@
 # ex-aethera ecom
 ## Description
-E-Commerce platform meant to replace Magento with a more up2date and faster code base.  
+E-Commerce platform meant to replace Magento with a more up2date and faster code base.  This project main purpose is to show how to use our various bundles to build a full fledged ecommerce application.
 
 We choose to use the Symfony PHP framework as we think it now became a stable and mature solution for developing production ready products.
 
