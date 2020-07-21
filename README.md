@@ -22,3 +22,4 @@ We aim to develop a complete eCommerce solution with the following features:
 - Generate a random secret seed number and store it in environment variable APP_SECRET in .env file
 - In the projects' root execute `composer install` to install php dependencies
 - In the projects' root execute `npm install` to install npm dependencies
+- In the projects' root build JS/CSS asset files `npm run dev`
